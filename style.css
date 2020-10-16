@@ -103,9 +103,7 @@ footer{
 
 /*media queries*/
 @media (max-width: 988px){
-    .form-inline{
-        display: none;
-    }
+  
     .nav-link{
         padding-bottom:20px;
     }
