@@ -1,0 +1,10 @@
+select{
+    height:30px;
+    padding:0;
+    margin-left: 30px;
+    background-color:#1f1e1e;
+    border: 1px solid #fff;
+    color:  #fff;
+    border-radius: 2px;
+    margin-bottom: 4px;
+}
